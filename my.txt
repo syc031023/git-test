@@ -3,3 +3,4 @@
 저는 git을 학습중에 있습니다. 
 
 my.txt 수정
+cat에서 my.txt 수정
